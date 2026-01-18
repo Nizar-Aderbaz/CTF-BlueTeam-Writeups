@@ -35,4 +35,4 @@ The full step-by-step methodology with screenshots is available here:
 
 ## Author
 NIZAR ADERBAZ
-Cybersecurity Student | DFIR / Malware Analysis
+- Cybersecurity Student | DFIR / Malware Analysis
