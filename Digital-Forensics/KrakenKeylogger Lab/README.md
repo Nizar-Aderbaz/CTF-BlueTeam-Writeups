@@ -32,7 +32,7 @@ The focus is on endpoint forensics and attacker behavior analysis.
 ## Detailed Analysis
 I prepared both a detailed forensic report and supporting documentation that describe the full step-by-step investigation methodology, (including screenshots):
 - Forensic Report: Report.pdf
-= Documentation: Documentation.pdf
+- Documentation: Documentation.pdf
 
 ## Author
 NIZAR ADERBAZ
