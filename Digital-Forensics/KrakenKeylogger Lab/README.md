@@ -17,6 +17,7 @@ The focus is on endpoint forensics and attacker behavior analysis.
 - PowerShell
 - Notepad++
 - SrumECmd
+- AmcacheParser
 
 ## What This Project Contains
 - High-level investigation summary (this README)
@@ -29,9 +30,9 @@ The focus is on endpoint forensics and attacker behavior analysis.
 - Log and artifact investigation
 
 ## Detailed Analysis
-The full step-by-step methodology with screenshots is available here:
-
-➡ **KrakenKeylogger_Forensic_Report.pdf**
+I prepared both a detailed forensic report and supporting documentation that describe the full step-by-step investigation methodology, (including screenshots):
+- Forensic Report: Report.pdf
+= Documentation: Documentation.pdf
 
 ## Author
 NIZAR ADERBAZ
